@@ -1,1 +1,1 @@
-Learning Git la la la 
+Git 19.04.2020
